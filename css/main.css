@@ -157,7 +157,7 @@
     background:red;
 }
 .hero__btn:hover{
-   border: 1px solid red;
+   border: 1px solid yellow;
    background:yellow;
    transition: 0.5s;
    color:black;
