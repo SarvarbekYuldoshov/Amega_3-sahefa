@@ -68,7 +68,7 @@
     transition: 0.5s;
 }
 .header__button:hover {
-    background: red;
+    background: rgb(255, 0, 0);
     transform: scale(1.1);
 }
 
