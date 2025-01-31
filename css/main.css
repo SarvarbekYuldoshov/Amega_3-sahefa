@@ -117,7 +117,7 @@
     padding: 10px 80px;
     color: #FFF;
     font-size: 15px;
-    background: red;
+    background: rgb(246, 0, 0);
 }
 .hero__button:hover {
     border: 1px solid rgb(249, 249, 2);
