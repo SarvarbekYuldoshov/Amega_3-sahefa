@@ -121,7 +121,7 @@
 }
 .hero__button:hover {
     border: 1px solid yellow;
-    background: yellow;
+    background: rgb(255, 255, 0);
     color: rgb(0, 0, 0);
     transform: scale(1.1);
 }
