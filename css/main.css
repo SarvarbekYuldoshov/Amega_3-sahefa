@@ -101,7 +101,7 @@
     position: absolute;
     bottom: 70px;
     border-radius: 50%;
-    background: blue;
+    background: rgb(0, 0, 255);
     width: 380px;
     height: 380px;
 }
