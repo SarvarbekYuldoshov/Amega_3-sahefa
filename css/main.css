@@ -167,7 +167,8 @@
     bottom: 370px;
 }
 
-/* Main Section */
+/*------------------------------------------------------------ Main Section ----------------------------------------------*/
+
 .main__list {
     display: flex;
     justify-content: space-between;
