@@ -122,7 +122,7 @@
     background: rgb(211, 2, 2);
 }
 .hero__button:hover {
-    border: 1px solid rgb(217, 217, 14);
+    border: 1px solid rgb(240, 240, 5);
     background: rgb(255, 255, 0);
     color: rgb(0, 0, 0);
     transform: scale(1.1);
